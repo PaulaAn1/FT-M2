@@ -1,0 +1,12 @@
+.container input{
+  background-color: rgba(248, 50, 43, 0.589);
+  border: none;
+}
+
+.bton{
+  background-color: red;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 3px;
+}

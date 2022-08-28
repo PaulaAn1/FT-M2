@@ -1,0 +1,30 @@
+.container{
+  border: lightblue solid 2px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  padding-top: 35px;
+}
+
+.bton {
+  width: min-content;
+  height: min-content;
+  background-color: rgb(255, 89, 89);
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  color: bisque;
+}
+
+.infoContainer{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 15px;
+  padding-left: 20px;
+}

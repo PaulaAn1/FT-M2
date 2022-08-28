@@ -1,0 +1,20 @@
+#logoHenry {
+  margin-right: 20px;
+}
+
+.nav-header{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 8px;
+  padding-right: 8px;
+  background-color: rgba(0, 70, 82, 0.808);
+  height: 60px;
+  margin-bottom: 30px;
+}
+
+.styH {
+  display: flex;
+  text-align: left;
+  font-size: 30px;
+  color: aliceblue;
+}
